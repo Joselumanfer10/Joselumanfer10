@@ -1,7 +1,7 @@
 - 👋 Hola, soy @Joselumanfer10
 - 👀 Estoy interesado en un puesto de trabajo como Data Scientist
 - 🌱 Estoy estudiando el bootcamp de Hack A Boss
-- 📫 Puedes contactar conmigo a traves de mi linkedin: https://www.linkedin.com/in/jose-luis-manzanares-fern%C3%A1ndez-78578b261/
+- 📫 Puedes contactar conmigo a traves de mi linkedin: https://www.linkedin.com/in/joselumf/
 
 <!---
 Joselumanfer10/Joselumanfer10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
