@@ -4,13 +4,18 @@
   <a href="mailto:joselu10.manfer@gmail.com">✉️ Correo Electrónico</a> |
   <a href="https://www.linkedin.com/in/joselumf">🔗 LinkedIn</a>
 </p>
+
+---
+
 🔭 Trabajo Actual: Desarrollando soluciones avanzadas en Oh My Cut! para crear informes interactivos y gestionar bases de datos SQL. También brindo soporte informático a franquiciados y tomo decisiones estratégicas basadas en datos.
 
 🌟 Buscando Colaboraciones en: Proyectos innovadores en inteligencia artificial, machine learning y optimización empresarial. Estoy abierto a nuevas ideas y desafíos.
 
 🧠 Experto en: Creación de informes en Power BI, programación en Python, gestión de bases de datos SQL, desarrollo de aplicaciones en Streamlit, y soporte técnico. Me encanta compartir conocimiento y resolver problemas complejos.
 
-✨ Curiosidad Personal: Me fascina encontrar patrones en los datos y desarrollar soluciones tecnológicas que mejoren la eficiencia y promuevan la innovación.
+✨ Curiosidad Personal: Me fascina desarrollar medidas y visuales que logren un avance claro a nivel empresarial.
+
+---
 
 <h2 align="center">Tecnologías y Herramientas</h2>
 <p align="center">
