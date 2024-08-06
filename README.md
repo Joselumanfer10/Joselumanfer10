@@ -1,5 +1,5 @@
 <h1 align="center">¡Hola! 👋 Soy José Luis Manzanares Fernández</h1>
-<h3 align="center">Analista de Negocios y Director de Sistemas</h3>
+<h3 align="center">Business Analyst & Director de Sistemas</h3>
 <p align="center">
   <a href="mailto:joselu10.manfer@gmail.com">✉️ Correo Electrónico</a> |
   <a href="https://www.linkedin.com/in/joselumf">🔗 LinkedIn</a>
