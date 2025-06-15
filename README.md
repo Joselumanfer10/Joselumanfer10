@@ -8,43 +8,33 @@
 ---
 
 🚀 **Actualidad:**  
-Fundador y CEO en **JLM**, agencia especializada en consultoría de inteligencia artificial y automatización de procesos para PYMEs y autonomos. Ayudo a empresas a digitalizarse, optimizar sus operaciones y transformar sus datos en decisiones estratégicas, combinando IA, BI y automatización.
+Fundador y CEO en **JLM**, agencia especializada en consultoría de inteligencia artificial y automatización para PYMEs y autónomos. Ayudo a empresas a digitalizar sus procesos, optimizar operaciones y convertir datos en decisiones estratégicas mediante IA, BI y automatización.
 
 🔎 **Mi experiencia:**  
-Con una base sólida como Business Analyst y Director de Sistemas en Oh My Cut!, he liderado proyectos de BI, desarrollo de soluciones con Python y Power BI, implementación de dashboards interactivos, y soporte IT a franquiciados. Siempre con un enfoque práctico: la tecnología al servicio del negocio real.
+Experto en proyectos de inteligencia artificial aplicada, análisis de datos y visualización con Power BI. He liderado soluciones de automatización y reporting en Oh My Cut!, además de consultoría y soporte tecnológico para empresas del sector servicios y retail.
 
 🤝 **¿En qué colaboro?**  
-- Automatización de procesos administrativos y comerciales  
-- Desarrollo de dashboards a medida (Power BI, Streamlit, etc.)  
-- Integración de IA para predicción y recomendación  
-- Formación y acompañamiento en transformación digital  
-- Soluciones a medida para el sector belleza, retail y servicios
+- Implantación y personalización de IA (OpenAI, IA generativa, chatbots, sistemas predictivos…)  
+- Visualización y análisis de datos con Power BI  
+- Automatización de flujos con Make, n8n, Botpress y Flowise  
+- Desarrollo de soluciones a medida en Python y Streamlit  
+- Transformación digital y acompañamiento a equipos
 
-📚 **Formación continua:**  
+📚 **Formación:**  
 - Máster en Inteligencia Artificial (Big School y Universidad Isabel I)  
 - Bootcamp en Data Science & IA (Hack A Boss)  
 - Grado en Estadística Empresarial (UMH)  
-- Diversos cursos en desarrollo, BI y automatización
+- Formación continua en BI, automatización y nuevas tecnologías
 
 ---
 
-<h2 align="center">Tecnologías y Herramientas</h2>
+<h2 align="center">Tecnologías y Herramientas principales</h2>
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="Python" width="80" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg" alt="Power BI" width="80" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="SQL" width="80" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="JavaScript" width="80" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" alt="TensorFlow" width="80" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" alt="PySpark" width="80" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" alt="Jupyter" width="80" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="VSCode" width="80" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-ar21.svg" alt="Microsoft" width="80" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/openai/openai-ar21.svg" alt="OpenAI" width="80" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/make_com/make_com-ar21.svg" alt="Make.com" width="80" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/n8n_io/n8n_io-ar21.svg" alt="n8n" width="80" height="40"/>
-  <!-- Botpress y Flowise no están en vectorlogo.zone, abajo hay opciones alternas -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Botpress-logo-cropped.svg" alt="Botpress" width="80" height="40"/>
-  <img src="https://flowiseai.com/images/logo.png" alt="Flowise" width="80" height="40"/>
+  <b>Inteligencia Artificial:</b> OpenAI · Modelos generativos · IA aplicada a negocio<br>
+  <b>Business Intelligence:</b> Power BI · Dashboards · Visualización de datos<br>
+  <b>Automatización:</b> Make · n8n · Botpress · Flowise<br>
+  <b>Desarrollo:</b> Python · Streamlit · SQL · JavaScript<br>
+  <b>Entornos y otros:</b> Jupyter · VSCode · Microsoft 365
 </p>
 
 ---
