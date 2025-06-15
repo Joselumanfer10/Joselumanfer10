@@ -8,7 +8,7 @@
 ---
 
 🚀 **Actualidad:**  
-Fundador y CEO en **JLM**, agencia especializada en consultoría de inteligencia artificial y automatización de procesos para PYMEs. Ayudo a empresas a digitalizarse, optimizar sus operaciones y transformar sus datos en decisiones estratégicas, combinando IA, BI y automatización.
+Fundador y CEO en **JLM**, agencia especializada en consultoría de inteligencia artificial y automatización de procesos para PYMEs y autonomos. Ayudo a empresas a digitalizarse, optimizar sus operaciones y transformar sus datos en decisiones estratégicas, combinando IA, BI y automatización.
 
 🔎 **Mi experiencia:**  
 Con una base sólida como Business Analyst y Director de Sistemas en Oh My Cut!, he liderado proyectos de BI, desarrollo de soluciones con Python y Power BI, implementación de dashboards interactivos, y soporte IT a franquiciados. Siempre con un enfoque práctico: la tecnología al servicio del negocio real.
