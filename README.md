@@ -40,10 +40,11 @@ Con una base sólida como Business Analyst y Director de Sistemas en Oh My Cut!,
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="VSCode" width="80" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-ar21.svg" alt="Microsoft" width="80" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/openai/openai-ar21.svg" alt="OpenAI" width="80" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/make_com/make_com-ar21.svg" alt="Make" width="80" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/botpress.svg" alt="Botpress" width="80" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/make_com/make_com-ar21.svg" alt="Make.com" width="80" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/n8n_io/n8n_io-ar21.svg" alt="n8n" width="80" height="40"/>
+  <!-- Botpress y Flowise no están en vectorlogo.zone, abajo hay opciones alternas -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Botpress-logo-cropped.svg" alt="Botpress" width="80" height="40"/>
   <img src="https://flowiseai.com/images/logo.png" alt="Flowise" width="80" height="40"/>
-  <img src="https://raw.githubusercontent.com/n8n-io/n8n/main/assets/n8n-logo.png" alt="n8n" width="80" height="40"/>
 </p>
 
 ---
