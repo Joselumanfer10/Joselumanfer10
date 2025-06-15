@@ -1,36 +1,55 @@
 <h1 align="center">¡Hola! 👋 Soy José Luis Manzanares Fernández</h1>
-<h3 align="center">Business Analyst & Director de Sistemas</h3>
+<h3 align="center">Fundador de JLM · Consultor en IA & Automatización · Business Analyst</h3>
 <p align="center">
-  <a href="mailto:joselu10.manfer@gmail.com">✉️ Correo Electrónico</a> |
+  <a href="mailto:joseluis@joseluismanzanaresia.es">✉️ Correo Electrónico</a> |
   <a href="https://www.linkedin.com/in/joselumf">🔗 LinkedIn</a>
 </p>
 
 ---
 
-🔭 Trabajo Actual: Desarrollando soluciones avanzadas en Oh My Cut! para crear informes interactivos y gestionar bases de datos SQL. También brindo soporte informático a franquiciados y tomo decisiones estratégicas basadas en datos.
+🚀 **Actualidad:**  
+Fundador y CEO en **JLM**, agencia especializada en consultoría de inteligencia artificial y automatización de procesos para PYMEs. Ayudo a empresas a digitalizarse, optimizar sus operaciones y transformar sus datos en decisiones estratégicas, combinando IA, BI y automatización.
 
-🌟 Buscando Colaboraciones en: Proyectos innovadores en inteligencia artificial, machine learning y optimización empresarial. Estoy abierto a nuevas ideas y desafíos.
+🔎 **Mi experiencia:**  
+Con una base sólida como Business Analyst y Director de Sistemas en Oh My Cut!, he liderado proyectos de BI, desarrollo de soluciones con Python y Power BI, implementación de dashboards interactivos, y soporte IT a franquiciados. Siempre con un enfoque práctico: la tecnología al servicio del negocio real.
 
-🧠 Experto en: Creación de informes en Power BI, programación en Python, gestión de bases de datos SQL, desarrollo de aplicaciones en Streamlit, y soporte técnico. Me encanta compartir conocimiento y resolver problemas complejos.
+🤝 **¿En qué colaboro?**  
+- Automatización de procesos administrativos y comerciales  
+- Desarrollo de dashboards a medida (Power BI, Streamlit, etc.)  
+- Integración de IA para predicción y recomendación  
+- Formación y acompañamiento en transformación digital  
+- Soluciones a medida para el sector belleza, retail y servicios
 
-✨ Curiosidad Personal: Me fascina desarrollar medidas y visuales que logren un avance claro a nivel empresarial.
+📚 **Formación continua:**  
+- Máster en Inteligencia Artificial (Big School y Universidad Isabel I)  
+- Bootcamp en Data Science & IA (Hack A Boss)  
+- Grado en Estadística Empresarial (UMH)  
+- Diversos cursos en desarrollo, BI y automatización
 
 ---
 
 <h2 align="center">Tecnologías y Herramientas</h2>
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="python" width="80" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="Python" width="80" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg" alt="Power BI" width="80" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="SQL" width="80" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="JavaScript" width="80" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" alt="TensorFlow" width="80" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" alt="PySpark" width="80" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" alt="Jupyter" width="80" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="Visual Studio Code" width="80" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="VSCode" width="80" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-ar21.svg" alt="Microsoft" width="80" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/openai/openai-ar21.svg" alt="OpenAI" width="80" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/make_com/make_com-ar21.svg" alt="Make" width="80" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/botpress.svg" alt="Botpress" width="80" height="40"/>
+  <img src="https://flowiseai.com/images/logo.png" alt="Flowise" width="80" height="40"/>
+  <img src="https://raw.githubusercontent.com/n8n-io/n8n/main/assets/n8n-logo.png" alt="n8n" width="80" height="40"/>
 </p>
-📚 Formación: Completé el bootcamp de Data Science & IA en Hack A Boss y titulado en Estadística Empresarial en la UMH (Elche). Actualmente, sigo ampliando mis conocimientos en inteligencia artificial y nuevos lenguajes de programación.
 
-💼 Consultorías Freelance: Trabajo como consultor freelance para PYMEs en Elche, ayudándoles a mejorar su rendimiento empresarial a través de análisis de datos y soluciones tecnológicas.
+---
 
-📫 Contacto: Puedes contactarme a través de mi LinkedIn o por correo electrónico: joselu10.manfer@gmail.com
+💡 **¿Te interesa colaborar, tienes un reto tecnológico o quieres transformar tu negocio con IA?**  
+Hablemos. Estoy abierto a nuevas ideas y a impulsar proyectos donde la tecnología marque la diferencia.
+
+📫 **Contacto:**  
+[LinkedIn](https://www.linkedin.com/in/joselumf) · joseluis@joseluismanzanaresia.es
