@@ -30,8 +30,8 @@ Experto en proyectos de inteligencia artificial aplicada, análisis de datos y v
 
 <h2 align="center">Tecnologías y Herramientas principales</h2>
 <p align="center">
-  <b>Inteligencia Artificial:</b> OpenAI · Modelos generativos · IA aplicada a negocio<br>
-  <b>Business Intelligence:</b> Power BI · Dashboards · Visualización de datos<br>
+  <b>Inteligencia Artificial:</b> OpenAI · Gemini · Copilot · Grok · ElevenLabs · HeyGen · Modelos generativos · IA aplicada a negocio<br>
+  <b>Business Intelligence:</b> Power BI<br>
   <b>Automatización:</b> Make · n8n · Botpress · Flowise<br>
   <b>Desarrollo:</b> Python · Streamlit · SQL · JavaScript<br>
   <b>Entornos y otros:</b> Jupyter · VSCode · Microsoft 365
